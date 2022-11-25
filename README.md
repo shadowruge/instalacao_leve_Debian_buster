@@ -77,7 +77,7 @@ https://code.visualstudio.com/download<br>
 sudo dpkg --install code_1.64.2-1644445741_amd64.deb<br>
 
 ## Instalação do gerenciador de janelas i3:<br>
-## Aqui eu segui um exelente artigo do MIguel Sampaio da Veiga.<br>
+## Aqui eu segui um exelente artigo do MIguel Sampaio da Veiga,<br>
 ## que tambem pode ser usado como manual de instalação do sistema debian.<br>
 
 sudo aptitude install i3 suckless-tools<br>
