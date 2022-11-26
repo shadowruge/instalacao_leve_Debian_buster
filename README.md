@@ -26,8 +26,8 @@ configurando sources.list:<br>
 
 sudo pico /etc/apt/sources.list<br>
 
-deb http://deb.debian.org/debian/ buster main non-free contrib<br>
-deb-src http://deb.debian.org/debian/ buster main non-free contrib<br>
+deb http://deb.debian.org/debian/ buster main contrib non-free <br>
+deb-src http://deb.debian.org/debian/ buster main contrib non-free <br>
 
 deb http://security.debian.org/debian-security buster/updates main contrib non-free<br>
 deb-src http://security.debian.org/debian-security buster/updates main contrib non-free<br>
